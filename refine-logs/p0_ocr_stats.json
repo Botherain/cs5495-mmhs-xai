@@ -1,0 +1,15 @@
+{
+  "requested": 3499,
+  "processed": 3499,
+  "with_text": 1279,
+  "with_text_share": 0.3655,
+  "boxes_raw": 10400,
+  "boxes_kept": 6272,
+  "excluded_fraction": 0.3969,
+  "mean_boxes_per_image": 1.793,
+  "mean_area_share": 0.0319,
+  "median_area_share": 0.0,
+  "min_conf": 0.6,
+  "engine": "easyocr-1.7.2 (en)",
+  "missing": 0
+}

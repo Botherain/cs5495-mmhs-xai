@@ -1,0 +1,52 @@
+{
+  "split": "test",
+  "main": {
+    "n": 3000,
+    "hate_rate_majority": 0.4997,
+    "hate_rate_any_annotator": 0.741,
+    "class_share_any": {
+      "racist": 0.3937,
+      "sexist": 0.1747,
+      "homophobe": 0.122,
+      "religion": 0.027,
+      "otherhate": 0.2453
+    },
+    "agreement_buckets": {
+      "all_agree": 932,
+      "partial": 1591,
+      "all_differ": 477
+    },
+    "agreement_score_mean": 0.7172,
+    "annotators_per_item": {
+      "mean": 3.0,
+      "min": 2,
+      "max": 3
+    },
+    "ocr_text_available": 0.0017
+  },
+  "selection": {
+    "n": 499,
+    "hate_rate_majority": 0.501,
+    "hate_rate_any_annotator": 0.7415,
+    "class_share_any": {
+      "racist": 0.4108,
+      "sexist": 0.1643,
+      "homophobe": 0.1423,
+      "religion": 0.014,
+      "otherhate": 0.2305
+    },
+    "agreement_buckets": {
+      "all_agree": 155,
+      "partial": 265,
+      "all_differ": 79
+    },
+    "agreement_score_mean": 0.7174,
+    "annotators_per_item": {
+      "mean": 3.002,
+      "min": 3,
+      "max": 4
+    },
+    "ocr_text_available": 0.0
+  },
+  "overlap_ids": 0
+}

@@ -1,0 +1,30 @@
+{
+  "a3_preprocessing": {
+    "n": 499,
+    "phi_t_mean_raw": 0.04404095560312271,
+    "phi_t_mean_stripped": 0.04540642350912094,
+    "relative_shift": 0.03100450150668621,
+    "spearman_phi_t": 0.9607837110554535,
+    "text_dominance_raw": 0.9979959919839679,
+    "text_dominance_stripped": 0.9979959919839679,
+    "criterion": "relative shift < 0.10 and dominance ordering unchanged",
+    "passes": true
+  },
+  "target_sensitivity": {
+    "four_heads": {
+      "phi_t_mean": 0.04667939245700836,
+      "phi_i_mean": 0.0013649953762069345,
+      "text_dominance": 0.9943333333333333,
+      "share_mean": 0.9354104995727539
+    },
+    "five_heads": {
+      "phi_t_mean": 0.02673417143523693,
+      "phi_i_mean": 0.0015385119477286935,
+      "text_dominance": 0.9643333333333334,
+      "share_mean": 0.9120214581489563
+    },
+    "dominance_difference": 0.029999999999999916,
+    "criterion": "ordering unchanged (dominance difference < 0.05)",
+    "passes": true
+  }
+}

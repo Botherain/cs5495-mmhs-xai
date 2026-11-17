@@ -1,0 +1,8 @@
+data/MMHS150K/img_resized/
+data/MMHS150K/MMHS150K_GT.json
+data/MMHS150K/_cache/
+models/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+cp_stage.html

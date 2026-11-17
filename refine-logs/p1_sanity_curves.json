@@ -1,0 +1,217 @@
+{
+  "n": 100,
+  "levels": [
+    0,
+    3,
+    6,
+    9,
+    12
+  ],
+  "curves": {
+    "text": {
+      "0": {
+        "occlusion": {
+          "spearman": 1.0,
+          "top10_overlap": 1.0
+        },
+        "lime": {
+          "spearman": 1.0,
+          "top10_overlap": 1.0
+        },
+        "kernelshap": {
+          "spearman": 1.0,
+          "top10_overlap": 1.0
+        }
+      },
+      "3": {
+        "occlusion": {
+          "spearman": 0.5717493207923113,
+          "top10_overlap": 0.6543333333333333
+        },
+        "lime": {
+          "spearman": 0.9017648014018174,
+          "top10_overlap": 0.7951666666666668
+        },
+        "kernelshap": {
+          "spearman": 0.9477421204459477,
+          "top10_overlap": 0.8368333333333333
+        }
+      },
+      "6": {
+        "occlusion": {
+          "spearman": 0.35054225392580335,
+          "top10_overlap": 0.5285
+        },
+        "lime": {
+          "spearman": 0.6135880859104941,
+          "top10_overlap": 0.6161666666666666
+        },
+        "kernelshap": {
+          "spearman": 0.4339479977250332,
+          "top10_overlap": 0.5071666666666667
+        }
+      },
+      "9": {
+        "occlusion": {
+          "spearman": 0.040438951971273555,
+          "top10_overlap": 0.379
+        },
+        "lime": {
+          "spearman": -0.1546588272259578,
+          "top10_overlap": 0.2651666666666666
+        },
+        "kernelshap": {
+          "spearman": -0.1713620955592065,
+          "top10_overlap": 0.16266666666666665
+        }
+      },
+      "12": {
+        "occlusion": {
+          "spearman": 0.056193926908887075,
+          "top10_overlap": 0.13266666666666665
+        },
+        "lime": {
+          "spearman": 0.08549909913669812,
+          "top10_overlap": 0.13766666666666666
+        },
+        "kernelshap": {
+          "spearman": 0.057306700185936504,
+          "top10_overlap": 0.11683333333333333
+        }
+      }
+    },
+    "image": {
+      "0": {
+        "occlusion": {
+          "spearman": 1.0,
+          "top10_overlap": 1.0
+        },
+        "gradcam": {
+          "spearman": 1.0,
+          "top10_overlap": 1.0
+        },
+        "ig": {
+          "spearman": 0.9999999999999999,
+          "top10_overlap": 1.0
+        },
+        "scorecam": {
+          "spearman": 1.0,
+          "top10_overlap": 1.0
+        }
+      },
+      "3": {
+        "occlusion": {
+          "spearman": 0.920480791032523,
+          "top10_overlap": 0.824
+        },
+        "gradcam": {
+          "spearman": 0.9279879945482544,
+          "top10_overlap": 0.7660000000000001
+        },
+        "ig": {
+          "spearman": 0.9344091836734694,
+          "top10_overlap": 0.8439999999999999
+        },
+        "scorecam": {
+          "spearman": 0.9128571428571428,
+          "top10_overlap": 0.91
+        }
+      },
+      "6": {
+        "occlusion": {
+          "spearman": 0.7382832476204854,
+          "top10_overlap": 0.6139999999999999
+        },
+        "gradcam": {
+          "spearman": 0.6838829002373191,
+          "top10_overlap": 0.568
+        },
+        "ig": {
+          "spearman": 0.8424999999999998,
+          "top10_overlap": 0.7519999999999999
+        },
+        "scorecam": {
+          "spearman": 0.8885714285714285,
+          "top10_overlap": 0.84
+        }
+      },
+      "9": {
+        "occlusion": {
+          "spearman": 0.6346464825029384,
+          "top10_overlap": 0.506
+        },
+        "gradcam": {
+          "spearman": 0.6202118519898058,
+          "top10_overlap": 0.434
+        },
+        "ig": {
+          "spearman": 0.748473469387755,
+          "top10_overlap": 0.6839999999999997
+        },
+        "scorecam": {
+          "spearman": 0.8371428571428572,
+          "top10_overlap": 0.68
+        }
+      },
+      "12": {
+        "occlusion": {
+          "spearman": -0.03939831405374588,
+          "top10_overlap": 0.098
+        },
+        "gradcam": {
+          "spearman": 0.6824361382822204,
+          "top10_overlap": 0.444
+        },
+        "ig": {
+          "spearman": 0.33154999999999996,
+          "top10_overlap": 0.29800000000000004
+        },
+        "scorecam": {
+          "spearman": 0.23178571428571434,
+          "top10_overlap": 0.2
+        }
+      }
+    }
+  },
+  "gates": {
+    "text": {
+      "occlusion": {
+        "rho_depth": -0.8999999999999998,
+        "r_full": 0.056193926908887075,
+        "passes": true
+      },
+      "lime": {
+        "rho_depth": -0.8999999999999998,
+        "r_full": 0.08549909913669812,
+        "passes": true
+      },
+      "kernelshap": {
+        "rho_depth": -0.8999999999999998,
+        "r_full": 0.057306700185936504,
+        "passes": true
+      }
+    },
+    "image": {
+      "occlusion": {
+        "rho_depth": -0.9999999999999999,
+        "r_full": -0.03939831405374588,
+        "passes": true
+      },
+      "gradcam": {
+        "rho_depth": -0.8999999999999998,
+        "r_full": 0.6824361382822204,
+        "passes": false
+      },
+      "ig": {
+        "rho_depth": -0.9999999999999999,
+        "r_full": 0.33154999999999996,
+        "passes": false
+      },
+      "scorecam": {
+        "rho_depth": -0.9999999999999999,
+        "r_full": 0.23178571428571434,
+        "passes": false
+      }
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "n": 100,
+  "text_seeds": {
+    "lime": {
+      "pairs": [
+        {
+          "seed": 1,
+          "spearman": 0.6960617574997657,
+          "top10_overlap": 0.8221666666666667
+        },
+        {
+          "seed": 2,
+          "spearman": 0.662602537299147,
+          "top10_overlap": 0.8171666666666667
+        },
+        {
+          "seed": 3,
+          "spearman": 0.6782516223531154,
+          "top10_overlap": 0.7983333333333335
+        }
+      ],
+      "min_spearman": 0.662602537299147,
+      "min_top10_overlap": 0.7983333333333335,
+      "passes": true
+    },
+    "kernelshap": {
+      "pairs": [
+        {
+          "seed": 1,
+          "spearman": 0.8608843437209179,
+          "top10_overlap": 0.8554999999999999
+        },
+        {
+          "seed": 2,
+          "spearman": 0.8527586281546676,
+          "top10_overlap": 0.8755000000000002
+        },
+        {
+          "seed": 3,
+          "spearman": 0.8579325352069912,
+          "top10_overlap": 0.8721666666666666
+        }
+      ],
+      "min_spearman": 0.8527586281546676,
+      "min_top10_overlap": 0.8554999999999999,
+      "passes": true
+    }
+  },
+  "image_noise": {
+    "occlusion": {
+      "pairs": [
+        {
+          "repeat": 0,
+          "spearman": 0.997796034617436,
+          "top10_overlap": 0.9660000000000001
+        },
+        {
+          "repeat": 1,
+          "spearman": 0.9986741036487445,
+          "top10_overlap": 0.99
+        },
+        {
+          "repeat": 2,
+          "spearman": 0.9981736155262209,
+          "top10_overlap": 0.9880000000000001
+        }
+      ],
+      "min_spearman": 0.997796034617436,
+      "min_top10_overlap": 0.9660000000000001,
+      "passes": true
+    },
+    "gradcam": {
+      "pairs": [
+        {
+          "repeat": 0,
+          "spearman": 0.9963906821807101,
+          "top10_overlap": 0.9839999999999999
+        },
+        {
+          "repeat": 1,
+          "spearman": 0.9965145859719704,
+          "top10_overlap": 0.988
+        },
+        {
+          "repeat": 2,
+          "spearman": 0.9962454235131203,
+          "top10_overlap": 0.986
+        }
+      ],
+      "min_spearman": 0.9962454235131203,
+      "min_top10_overlap": 0.9839999999999999,
+      "passes": true
+    },
+    "ig": {
+      "pairs": [
+        {
+          "repeat": 0,
+          "spearman": 0.9968285714285716,
+          "top10_overlap": 0.98
+        },
+        {
+          "repeat": 1,
+          "spearman": 0.99564693877551,
+          "top10_overlap": 0.9739999999999999
+        },
+        {
+          "repeat": 2,
+          "spearman": 0.9964602040816324,
+          "top10_overlap": 0.982
+        }
+      ],
+      "min_spearman": 0.99564693877551,
+      "min_top10_overlap": 0.9739999999999999,
+      "passes": true
+    },
+    "scorecam": {
+      "pairs": [
+        {
+          "repeat": 0,
+          "spearman": 0.9960714285714286,
+          "top10_overlap": 0.99
+        },
+        {
+          "repeat": 1,
+          "spearman": 0.9985714285714284,
+          "top10_overlap": 1.0
+        },
+        {
+          "repeat": 2,
+          "spearman": 0.994642857142857,
+          "top10_overlap": 0.99
+        }
+      ],
+      "min_spearman": 0.994642857142857,
+      "min_top10_overlap": 0.99,
+      "passes": true
+    }
+  },
+  "criterion": "rho>0.5 and top10_overlap>=0.5 (worst pair)"
+}

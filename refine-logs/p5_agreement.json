@@ -1,0 +1,85 @@
+{
+  "buckets": {
+    "all_agree": {
+      "n": 154,
+      "text_share_mean": 0.9415251469133686,
+      "text_share_median": 0.9680331986104224,
+      "phi_t_mean": 0.0849587218231195,
+      "phi_i_mean": 0.0013717145102654959,
+      "target_mean": 0.4197023460617313
+    },
+    "partial": {
+      "n": 1571,
+      "text_share_mean": 0.9353252954968977,
+      "text_share_median": 0.9654706984215627,
+      "phi_t_mean": 0.05009920679312614,
+      "phi_i_mean": 0.0014439005455693418,
+      "target_mean": 0.3849150188253003
+    },
+    "all_differ": {
+      "n": 477,
+      "text_share_mean": 0.9375193219816446,
+      "text_share_median": 0.9766234869146255,
+      "phi_t_mean": 0.0895896616120446,
+      "phi_i_mean": 0.0013672365715231285,
+      "target_mean": 0.42432881038893694
+    }
+  },
+  "kruskal_statistic": 17.088152095986516,
+  "kruskal_p": 0.00019469505421414803,
+  "kruskal_note": "descriptive only: three groups cannot support a bucket-level claim",
+  "n": 2202,
+  "spearman_rho": -0.07052358783991454,
+  "spearman_p_two_sided": 0.0009276494994106368,
+  "spearman_p_one_sided_negative": 0.0004638247497053184,
+  "partial_rho": -0.04524313506783457,
+  "partial_p_one_sided_negative": 0.016879562497670746,
+  "partial_controls": [
+    "human usable-vote count",
+    "v(T,I) quartile"
+  ],
+  "criterion": "primary (hate-relevant subset): rho < -0.2 and one-sided p < 0.05",
+  "passes": false,
+  "full_sample": {
+    "buckets": {
+      "all_agree": {
+        "n": 932,
+        "text_share_mean": 0.9347997103743922,
+        "text_share_median": 0.9579237320527682,
+        "phi_t_mean": 0.018900170404655865,
+        "phi_i_mean": 0.0012370702798594221,
+        "target_mean": 0.3535091516286007
+      },
+      "partial": {
+        "n": 1591,
+        "text_share_mean": 0.9351360679564614,
+        "text_share_median": 0.9654697135810241,
+        "phi_t_mean": 0.05008731010217175,
+        "phi_i_mean": 0.0014392418469613187,
+        "target_mean": 0.3848984635041091
+      },
+      "all_differ": {
+        "n": 477,
+        "text_share_mean": 0.9375193219816446,
+        "text_share_median": 0.9766234869146255,
+        "phi_t_mean": 0.0895896616120446,
+        "phi_i_mean": 0.0013672365715231285,
+        "target_mean": 0.42432881038893694
+      }
+    },
+    "kruskal_statistic": 34.0938672288612,
+    "kruskal_p": 3.95012462687052e-08,
+    "kruskal_note": "descriptive only: three groups cannot support a bucket-level claim",
+    "n": 3000,
+    "spearman_rho": -0.10205372614957668,
+    "spearman_p_two_sided": 2.1187488481161933e-08,
+    "spearman_p_one_sided_negative": 1.0593744240580966e-08,
+    "partial_rho": -0.008000450666716738,
+    "partial_p_one_sided_negative": 0.330683312009029,
+    "partial_controls": [
+      "human usable-vote count",
+      "v(T,I) quartile"
+    ]
+  },
+  "n_excluded": 798
+}

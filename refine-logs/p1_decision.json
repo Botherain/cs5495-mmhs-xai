@@ -1,0 +1,116 @@
+{
+  "n": 499,
+  "floor": {
+    "text": 0.01,
+    "image": 0.001
+  },
+  "modalities": {
+    "text": {
+      "candidates": [
+        {
+          "method": "occlusion",
+          "aopc_mean": 0.0012925312908474572,
+          "aopc_median": 0.00026417771975199383,
+          "comp20_mean": 0.0011827530029541505,
+          "suff20_mean": 0.0038158169729198385,
+          "p_vs_random": 0.00012490672003413018,
+          "clears_floor": false,
+          "passes": false
+        },
+        {
+          "method": "lime",
+          "aopc_mean": 0.06204243210370173,
+          "aopc_median": 0.013520792126655579,
+          "comp20_mean": 0.06429788607633663,
+          "suff20_mean": 0.09675855280641085,
+          "p_vs_random": 6.834877452479765e-82,
+          "clears_floor": true,
+          "passes": true
+        },
+        {
+          "method": "kernelshap",
+          "aopc_mean": 0.06056286584717797,
+          "aopc_median": 0.013045276204744974,
+          "comp20_mean": 0.06108239107953761,
+          "suff20_mean": 0.09325431493336786,
+          "p_vs_random": 4.505193819455271e-81,
+          "clears_floor": true,
+          "passes": true
+        }
+      ],
+      "winner": "lime",
+      "winner_block": {
+        "method": "lime",
+        "aopc_mean": 0.06204243210370173,
+        "aopc_median": 0.013520792126655579,
+        "comp20_mean": 0.06429788607633663,
+        "suff20_mean": 0.09675855280641085,
+        "p_vs_random": 6.834877452479765e-82,
+        "clears_floor": true,
+        "passes": true
+      },
+      "tie": {
+        "other": "kernelshap",
+        "delta_aopc": 0.0014795662565237622,
+        "paired_p": 7.774036963713871e-08,
+        "tied": false
+      }
+    },
+    "image": {
+      "candidates": [
+        {
+          "method": "occlusion",
+          "aopc_mean": 0.0012925312908474572,
+          "aopc_median": 0.00026417771975199383,
+          "comp20_mean": 0.0011827530029541505,
+          "suff20_mean": 0.0038158169729198385,
+          "p_vs_random": 1.0815554891633435e-81,
+          "clears_floor": true,
+          "passes": true
+        },
+        {
+          "method": "gradcam",
+          "aopc_mean": -0.000979580318601273,
+          "aopc_median": -0.0007735441128412882,
+          "comp20_mean": -0.0010803479230953362,
+          "suff20_mean": -6.529157290716688e-05,
+          "p_vs_random": 9.931642506912664e-51,
+          "clears_floor": false,
+          "passes": false
+        },
+        {
+          "method": "ig",
+          "aopc_mean": -0.0003445347448787294,
+          "aopc_median": -0.000534479816754659,
+          "comp20_mean": -0.0005132214937038078,
+          "suff20_mean": 0.0011939750405733952,
+          "p_vs_random": 3.576845144237506e-17,
+          "clears_floor": false,
+          "passes": false
+        },
+        {
+          "method": "scorecam",
+          "aopc_mean": -8.847879503437417e-05,
+          "aopc_median": -0.0002304166555404663,
+          "comp20_mean": -0.0002122906023610331,
+          "suff20_mean": 0.0017208494619281593,
+          "p_vs_random": 0.4307772730438013,
+          "clears_floor": false,
+          "passes": false
+        }
+      ],
+      "winner": "occlusion",
+      "winner_block": {
+        "method": "occlusion",
+        "aopc_mean": 0.0012925312908474572,
+        "aopc_median": 0.00026417771975199383,
+        "comp20_mean": 0.0011827530029541505,
+        "suff20_mean": 0.0038158169729198385,
+        "p_vs_random": 1.0815554891633435e-81,
+        "clears_floor": true,
+        "passes": true
+      },
+      "tie": null
+    }
+  }
+}

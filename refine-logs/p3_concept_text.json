@@ -1,0 +1,77 @@
+{
+  "n_labelled": 1824,
+  "n_double": 100,
+  "n_double_usable": 92,
+  "double_agreement_raw": 0.9347826086956522,
+  "double_agreement_kappa": 0.8682577565632459,
+  "criterion": "double-labelled agreement >= 0.8",
+  "passes": true,
+  "per_concept": {
+    "printed_text": {
+      "positive_with_text": {
+        "n": 400,
+        "hits": 378,
+        "rate": 0.945,
+        "ci95": [
+          0.9181319717303434,
+          0.9634017781359406
+        ]
+      },
+      "negative_with_text": {
+        "n": 400,
+        "hits": 20,
+        "rate": 0.05,
+        "ci95": [
+          0.0325971756266401,
+          0.07596420091307252
+        ]
+      },
+      "n_positive_labelled": 400,
+      "n_negative_labelled": 400
+    },
+    "face": {
+      "positive_with_text": {
+        "n": 400,
+        "hits": 208,
+        "rate": 0.52,
+        "ci95": [
+          0.4710820210989227,
+          0.5685374732770901
+        ]
+      },
+      "negative_with_text": {
+        "n": 400,
+        "hits": 179,
+        "rate": 0.4475,
+        "ci95": [
+          0.39950002860195316,
+          0.4964987986610134
+        ]
+      },
+      "n_positive_labelled": 400,
+      "n_negative_labelled": 400
+    },
+    "flat_graphic": {
+      "positive_with_text": {
+        "n": 349,
+        "hits": 220,
+        "rate": 0.6303724928366762,
+        "ci95": [
+          0.5785659509329031,
+          0.6793401463073314
+        ]
+      },
+      "negative_with_text": {
+        "n": 349,
+        "hits": 177,
+        "rate": 0.5071633237822349,
+        "ci95": [
+          0.45491878485070697,
+          0.5592518798328223
+        ]
+      },
+      "n_positive_labelled": 349,
+      "n_negative_labelled": 349
+    }
+  }
+}

@@ -1,0 +1,1808 @@
+{
+ "store": "gold",
+ "title": "OCR 金标准 · 200 张",
+ "annotator": "botherain",
+ "exported": "2026-11-14T05:01:05.291Z",
+ "rows": [
+  {
+   "id": "1107094173696565248",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114854299870220288",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107446368170315779",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113082218782560256",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113578517768306688",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1062540138004312064",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107919271785648128",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1110345425784111104",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113044484676337664",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1115811645949980673",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107838864662646786",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107790606749831172",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107297087270596609",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114690098493366272",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108785190309117952",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114483245880451072",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109452523126046720",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107859010365984768",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1106616736265224192",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107737959011368960",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107334043711037441",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108863001959022594",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1050042268277768193",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1061516229331091456",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1061184642135535617",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1061743686327980032",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1043350175215800320",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1116697143832653824",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1115292908213682176",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105508570395824128",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1054119657773428741",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109833765310947328",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1047231201046618113",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1062763161114370048",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108759693734883330",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1106549118044987392",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1115658494525562887",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107642361008582657",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108941058556100610",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1064239544000831490",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1045200988435599360",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1047271177130049536",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109500856758611968",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113601090728157184",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1054315595099865088",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1042145779916398594",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105364240536264706",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107799606983835648",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105445918587998213",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113092855034195969",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1053390986209046531",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113490050463993856",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1057051925630279680",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113832432023756800",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107786286574657536",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1117542563907428352",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108893940680454145",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1047204583104282624",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1046409367883534336",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108245895395577856",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1117466081680076803",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1043042403039379457",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1057003514138890241",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1044312327225397248",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1116040945865240577",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1064256263419125760",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105856066640842754",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1062369091833524225",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105852100838330369",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1050044753939709953",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1062058084049342464",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1057653311250227205",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1058376537353936896",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105681583783190529",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1064309121904652288",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1060982945442349056",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1042849845294362625",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1117457520346398726",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1055063576946335747",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1061745308567253004",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1060969288515895296",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113640494641373184",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105847834606215170",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1035549273893609474",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113586235631644673",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105178105583468544",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114723485857792001",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113983236454088704",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105234771360313345",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1056231961126035456",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109236763258691584",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1110008978593980417",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105118808258146304",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1054505646379450369",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1058186785191329793",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114214784138993664",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107983957533052928",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1035683468431249409",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1106706789788278786",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1050061065160220673",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113478838414082048",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109594127316983809",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108858585742757894",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1058323120573038592",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1053807445204746240",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105714575415144448",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108852824073474048",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107530707486887938",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113510829142564866",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1054165149282693120",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105125035587629057",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1043612836390477824",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113525344072548353",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113600568436633601",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1054472044681838592",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107935667076718597",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113170090885775360",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1110340935274192902",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1115837424586895360",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105520580151922689",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113861061374095366",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113844148229083136",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1036993391152820229",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1116031226232606721",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1056964133466357761",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109826367795818503",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1116523871136571393",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1110181755158315013",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1024983176245075968",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109887250815483904",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1110384353509543936",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108524890532077568",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1058766384342155265",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113226625682890752",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108605419868557312",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1056978985270284288",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1106886673781194752",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114298981499187202",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1044354403975786496",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1056592008830222336",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114567940949590020",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1061880906502336512",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1062286892727701504",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1056106774175080448",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1110231620236148736",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1041626143470829568",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1115103962552766464",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109549020542849026",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1110130088991969280",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109528422102065152",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109741981624872960",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108690010360950784",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1116364458186760194",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114695369026306054",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1115024981400932352",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1110406537028210688",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105550540702994434",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1036335281790640128",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1106675648926502918",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1053377571428188161",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1024490110119751680",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113853568845524993",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108415521534459911",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1057010307929985030",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113091281406685184",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1115376576575758337",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1059429746231205888",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113658580639653893",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114654959067385856",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1061853743602372608",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1116703760816930817",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1035633441289719810",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108396927924600832",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1037404285426958337",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114990771923558400",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108432104348618762",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114947720400310272",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107027417544224769",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1053930032039649285",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109383091070660608",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105567223496757248",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "unclear",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1061519783865278464",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1054689555163635712",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1056472317470085120",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1108834455383347203",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109560493499387904",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1057842370673340417",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1046751768699392005",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107152386479411201",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1115425025438420992",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1056465317663170560",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1057727995857829888",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1115005879559118853",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1115115109985050626",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105669553080524800",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1110268843484540928",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114482541879103489",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1053777595538403328",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105649748378374149",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "text",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113095943409238017",
+   "queue": "gold",
+   "pass": 1,
+   "concept": "",
+   "side": "",
+   "label": "none",
+   "annotator": "botherain"
+  }
+ ]
+}

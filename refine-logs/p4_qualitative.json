@@ -1,0 +1,46 @@
+{
+  "n_files": 1,
+  "n_rows": 40,
+  "n_cases": 40,
+  "conflicts": 0,
+  "groups": {
+    "flip": {
+      "n": 20,
+      "justified": 19,
+      "tag:slur": 20,
+      "tag:negation": 1,
+      "unclear": 1,
+      "with_note": 1,
+      "tag:link": 2,
+      "tag:content": 2
+    },
+    "control": {
+      "n": 20,
+      "justified": 19,
+      "tag:slur": 9,
+      "with_note": 4,
+      "artefact": 1,
+      "tag:link": 10,
+      "tag:content": 5,
+      "tag:negation": 1,
+      "tag:function": 1
+    }
+  },
+  "tags": [
+    "slur",
+    "negation",
+    "link",
+    "content",
+    "function"
+  ],
+  "verdicts": [
+    "justified",
+    "artefact",
+    "unclear"
+  ],
+  "criterion": "a flip counts as meaningful if the annotator marks 'justified' and the deleted span is a slur or group reference",
+  "share_justified_flip": 0.95,
+  "share_justified_control": 0.95,
+  "share_slur_flip": 1.0,
+  "share_slur_control": 0.45
+}

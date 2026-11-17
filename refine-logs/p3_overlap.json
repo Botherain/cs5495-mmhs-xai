@@ -1,0 +1,21 @@
+{
+  "n_total": 3000,
+  "n_with_text": 1113,
+  "mean_observed_share": 0.0726686039705713,
+  "mean_null_share": 0.0775036471989122,
+  "mean_excess": -0.0048350432283409,
+  "median_excess": -0.0016166310611880619,
+  "excess_ci95": [
+    -0.11336489113005296,
+    0.08790106438547315
+  ],
+  "p_wilcoxon": 2.05022891555532e-07,
+  "mean_null_sum_area_share": 0.08392415064308706,
+  "mean_excess_sum_area": -0.011255546672515755,
+  "share_above_null_p95": 0.07277628032345014,
+  "mean_text_area_share": 0.08027636301216569,
+  "mean_cells_touched": 12.157232704402515,
+  "criterion": "excess > 0.15 and paired p < 0.05",
+  "passes": false,
+  "null_placements": 100
+}

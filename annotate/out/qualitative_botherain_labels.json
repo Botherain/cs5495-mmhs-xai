@@ -1,0 +1,456 @@
+{
+ "rows": [
+  {
+   "id": "1037026971732111361",
+   "outcome": "false_positive",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1106927713955254274",
+   "outcome": "correct",
+   "flip": false,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "没有翻转，删去的部分只是让侮辱词无法正常显示。",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1110110660346695680",
+   "outcome": "over_trigger",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107036470152491009",
+   "outcome": "over_trigger",
+   "flip": false,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109482629173313536",
+   "outcome": "false_positive",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1059542052604702720",
+   "outcome": "correct",
+   "flip": false,
+   "tags": [
+    "link"
+   ],
+   "verdict": "artefact",
+   "note": "应该是一个sexist但是由于指示词的问题没有整体理解语义",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1054259848865472512",
+   "outcome": "correct",
+   "flip": false,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1058559438599143424",
+   "outcome": "correct",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1051405182406467584",
+   "outcome": "false_positive",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1036280422009892865",
+   "outcome": "over_trigger",
+   "flip": false,
+   "tags": [
+    "content"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114033026646904832",
+   "outcome": "misclass",
+   "flip": false,
+   "tags": [
+    "negation",
+    "slur",
+    "content"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1057541741803433985",
+   "outcome": "over_trigger",
+   "flip": true,
+   "tags": [
+    "slur",
+    "negation"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1036241965594099715",
+   "outcome": "correct",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107523700314832897",
+   "outcome": "over_trigger",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1055198779295571968",
+   "outcome": "correct",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109383190073036801",
+   "outcome": "false_positive",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1110212089585561603",
+   "outcome": "false_positive",
+   "flip": false,
+   "tags": [
+    "link"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107750790658170880",
+   "outcome": "false_positive",
+   "flip": false,
+   "tags": [
+    "link"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1051598539078299648",
+   "outcome": "correct",
+   "flip": false,
+   "tags": [
+    "content",
+    "link"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1044717838471229441",
+   "outcome": "false_positive",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114719039287377920",
+   "outcome": "false_positive",
+   "flip": false,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1106566556954304513",
+   "outcome": "false_positive",
+   "flip": false,
+   "tags": [
+    "content"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1034750882854842369",
+   "outcome": "correct",
+   "flip": false,
+   "tags": [
+    "link"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1051069895541252096",
+   "outcome": "correct",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "unclear",
+   "note": "这个其实翻转后误判了，本意是对个人的其他侮辱，并未涉及种族或者性别歧视",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1110160198113603584",
+   "outcome": "false_positive",
+   "flip": false,
+   "tags": [
+    "link",
+    "function"
+   ],
+   "verdict": "justified",
+   "note": "对于某个词权重过高，针对黑人对自己的自称nword应该减轻其仇恨权重",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1035224180218912768",
+   "outcome": "over_trigger",
+   "flip": false,
+   "tags": [
+    "slur",
+    "link"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1063849505987223553",
+   "outcome": "over_trigger",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1107403669027344389",
+   "outcome": "false_positive",
+   "flip": false,
+   "tags": [
+    "content",
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1105868648827240449",
+   "outcome": "false_positive",
+   "flip": true,
+   "tags": [
+    "slur",
+    "link",
+    "content"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1057404435767418881",
+   "outcome": "correct",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114248261701967873",
+   "outcome": "false_positive",
+   "flip": false,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "对于某个词权重过高，针对黑人对自己的自称nword应该减轻其仇恨权重",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1056954056403570688",
+   "outcome": "correct",
+   "flip": false,
+   "tags": [
+    "link"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1109544621565247488",
+   "outcome": "correct",
+   "flip": false,
+   "tags": [
+    "link"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1050742123031605248",
+   "outcome": "over_trigger",
+   "flip": false,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1113226625682890752",
+   "outcome": "misclass",
+   "flip": true,
+   "tags": [
+    "slur",
+    "content"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1057152057701027840",
+   "outcome": "correct",
+   "flip": true,
+   "tags": [
+    "link",
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1061816873145303041",
+   "outcome": "false_positive",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1106627372311343104",
+   "outcome": "correct",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1114970981687287809",
+   "outcome": "false_positive",
+   "flip": false,
+   "tags": [
+    "link"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  },
+  {
+   "id": "1037299199874883586",
+   "outcome": "false_positive",
+   "flip": true,
+   "tags": [
+    "slur"
+   ],
+   "verdict": "justified",
+   "note": "",
+   "annotator": "botherain"
+  }
+ ],
+ "exported": "2026-11-14T12:54:35.156Z"
+}

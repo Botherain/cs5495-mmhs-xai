@@ -1,0 +1,27 @@
+{
+  "n": 3000,
+  "checkpoint": "Amirhossein75/siglip2-base-mmhs150k-fusion",
+  "encoder": "google/siglip2-base-patch16-224",
+  "thresholds": [
+    0.3,
+    0.75,
+    0.85,
+    0.2,
+    0.55
+  ],
+  "phi_t": {
+    "mean": -0.00905468501150608,
+    "median": -0.026845037937164307
+  },
+  "phi_i": {
+    "mean": -0.009727791883051395,
+    "median": -0.009991295635700226
+  },
+  "text_dominance_share": 0.9483333333333334,
+  "phi_i_negative_share": 0.9463333333333334,
+  "main_text_dominance_share": 0.9943333333333333,
+  "dominance_gap": 0.04599999999999993,
+  "criterion": "|share_siglip2 - share_main| < 0.10 and the same magnitude ordering",
+  "passes": true,
+  "scale_note": "SigLIP2 fusion adds interaction terms, so absolute phi values are not comparable across checkpoints; only shares and ordering are."
+}

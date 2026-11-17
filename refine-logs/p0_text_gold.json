@@ -1,0 +1,22 @@
+{
+  "n_labelled": 200,
+  "n_usable": 199,
+  "n_unclear": 1,
+  "human_has_text_share": 0.5175879396984925,
+  "ocr_detection_rate": 0.7087378640776699,
+  "ocr_detection_ci95": [
+    0.6147531128118702,
+    0.7877118446578795
+  ],
+  "ocr_false_positive_rate": 0.0,
+  "ocr_false_positive_ci95": [
+    0.0,
+    0.03847694748481595
+  ],
+  "ocr_precision": 1.0,
+  "agreement_raw": 0.8492462311557789,
+  "agreement_kappa": 0.7012909036325428,
+  "n_human_text": 103,
+  "n_human_no_text": 96,
+  "criterion": "every gold image labelled; detection and false-positive rates reported with 95% Wilson intervals"
+}
